@@ -9,16 +9,11 @@
     "client": "npm start --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://gitlab.com/irawan01s/expense-tracker.git"
-  },
   "author": "Acep",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/irawan01s/expense-tracker/issues"
+    "url": "https://github.com/irawan01s/expense-tracker/issues"
   },
-  "homepage": "https://gitlab.com/irawan01s/expense-tracker#readme",
   "dependencies": {
     "colors": "^1.4.0",
     "dotenv": "^8.2.0",
